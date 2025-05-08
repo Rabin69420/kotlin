@@ -181,6 +181,13 @@ fun RegistrationBody(paddingValues: PaddingValues){
 
             )
         }
+
+        Row (
+            modifier = Modifier.padding(horizontal = 12.dp).fillMaxWidth(),
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+
+        }
     }
 
 
